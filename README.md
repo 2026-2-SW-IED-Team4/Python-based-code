@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 📱 EV3 스마트폰 리모컨
@@ -5,6 +6,9 @@
 **지도에서 강의실을 터치하면 로봇이 알아서 찾아가는 Python 버전 안내 로봇**
 
 휴대폰 브라우저 하나로 호실 선택 · 조이스틱 조종 · 속도 조절까지
+
+<img width="559" height="442" alt="Снимок экрана — 2026-11-10 в 10 59 16 AM" src="https://github.com/user-attachments/assets/fecb8db3-9619-4cc5-8baa-5a15c0cf21a3" />
+
 
 ![LEGO EV3](https://img.shields.io/badge/LEGO-MINDSTORMS%20EV3-e3000b?logo=lego&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.5%2B-3776ab?logo=python&logoColor=white)
@@ -55,6 +59,9 @@ flowchart LR
 
 **속도 슬라이더**와 빨간 **정지 버튼**은 모든 탭에서 항상 보입니다.
 
+<img width="563" height="534" alt="Снимок экрана — 2026-11-12 в 9 58 01 AM" src="https://github.com/user-attachments/assets/ad33c09e-4727-41d0-a7ae-67632ccc30e6" />
+
+
 ## 🔄 EV3 Classroom 버전과 달라진 점
 
 | | EV3 Classroom 버전 | Python 버전 (이 저장소) |
@@ -68,6 +75,7 @@ flowchart LR
 
 기존 버전의 안전 기능(장애물 정지, 터치 센서 비상정지, 노란 스티커 활용)은 그대로 가져왔습니다.
 
+
 ## ✨ 주요 기능
 
 - 📍 **지도 기반 길 찾기**: 복도 점과 선을 이은 지도에서 최단 경로를 계산해 이동
@@ -78,6 +86,9 @@ flowchart LR
 - 🛑 **터치 센서**: 누르면 정지 후 180° 회전 (설정에서 "정지만"으로 변경 가능)
 - 🧪 **시뮬레이터**: 로봇 없이 컴퓨터에서 휴대폰 페이지를 테스트
 - 💾 **자동 저장**: 설정은 `settings.json`, 지도는 `map.json`에 저장
+
+<img width="559" height="589" alt="Снимок экрана — 2026-11-12 в 9 58 55 AM" src="https://github.com/user-attachments/assets/5b28f31f-d728-4e95-9067-b9cb57a8ce41" />
+
 
 ## 🔌 하드웨어 구성
 
